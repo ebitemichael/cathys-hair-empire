@@ -1,0 +1,18 @@
+body {
+background-color:burlywood;   
+}
+header h1{
+    color: rgb(40, 161, 121);
+    text-align: left;
+    front: size 30px;
+}
+h2{
+    color: black;
+    text-align:left;
+    front:30px
+}
+h3{
+color: blue;
+text-align: left;
+front:30px
+}
